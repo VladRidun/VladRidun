@@ -4,10 +4,7 @@ I have been working in the field of information technology for more than 11 year
 a software engineer, I am engaged in server and network administration. He grew up
 to be a leading OT specialist in a large, cohesive OT team.
 In 2021, he became interested in Java development. I have completed my training and am now implementing
-a commercial project as a backend developer. I consider my strengths
-to be self-discipline, perseverance and perseverance, thanks to which I am able to unravel
-the intricacies of the algorithms presented in the program code.
-
+a commercial project as a backend developer. 
 Interested in developing highly scalable distributed systems.
 
 -----
