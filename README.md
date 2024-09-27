@@ -32,7 +32,5 @@ Application Servers: Tomcat, Jetty; <br/>
 * "job4j_todo" - [ToDo list using Spring Boot and Hibernate](https://github.com/VladRidun/job4j_todo)
 -----
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladRidun&layout=compact)](https://github.com/ShamRail/github-readme-stats)
->![Github stats](https://github-readme-stats.vercel.app/api?username=VladRidun&hide=stars,prs,issues,contribs)
-
 
 ![](https://komarev.com/ghpvc/?username=VladRidun)
