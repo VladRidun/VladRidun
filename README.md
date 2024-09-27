@@ -1,7 +1,4 @@
 ### Hello friends! I'm Vlad! 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 -----
 #### Software Engineer
 
@@ -37,7 +34,6 @@ Application Servers: Tomcat, Jetty; <br/>
 * "job4j_todo" - [ToDo list using Spring Boot and Hibernate](https://github.com/VladRidun/job4j_todo)
 
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladRidun&layout=compact)](https://github.com/ShamRail/github-readme-stats)
-
 -----
 ### Find me around the web 🌎 :
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/DalvRid)
