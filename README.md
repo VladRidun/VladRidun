@@ -8,6 +8,7 @@ a commercial project as a backend developer.
 Interested in developing highly scalable distributed systems.
 
 -----
+
 #### Skills:
 Languages: Java, SQL; <br />
 Technologies: Spring Framework, Spring Boot, SOAP/REST/Web services,  <br/>
