@@ -10,6 +10,7 @@ to be self-discipline, perseverance and perseverance, thanks to which I am able 
 the intricacies of the algorithms presented in the program code.
 
 Interested in developing highly scalable distributed systems.
+
 -----
 #### Skills:
 Languages: Java, SQL; <br />
@@ -31,6 +32,7 @@ Application Servers: Tomcat, Jetty; <br/>
 * "job4j_accidents" - [Accidents using Spring Boot, Spring Security and Spring Data](https://github.com/VladRidun/job4j_accidents)
 * "job4j_todo" - [ToDo list using Spring Boot and Hibernate](https://github.com/VladRidun/job4j_todo)
 -----
+
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladRidun&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=VladRidun)
