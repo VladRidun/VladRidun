@@ -1,7 +1,7 @@
 ### Hello friends! I'm Vlad! 
 #### Software Engineer
 I have been working in the field of information technology for more than 11 years. I started my career as
-a software engineer, I am engaged in server and network administration. He grew up
+a technical support engineer, I am engaged in server and network administration. He grew up
 to be a leading OT specialist in a large, cohesive OT team.
 In 2021, he became interested in Java development. I have completed my training and am now implementing
 a commercial project as a backend developer. 
