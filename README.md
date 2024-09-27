@@ -11,8 +11,7 @@ Interested in developing highly scalable distributed systems.
 
 #### Skills:
 Languages: Java, SQL; <br />
-Technologies: Spring Framework, Spring Boot, SOAP/REST/Web services,  <br/>
-Hibernate ORM, Apache Kafka, Docker, CI/CD, Junit, Mockito, JDBC, JPA; <br/>
+Technologies: Spring Framework, Spring Boot, SOAP/REST/Web services, Hibernate ORM, Apache Kafka, Docker, CI/CD, Junit, Mockito, JDBC, JPA; <br/>
 Tools: Maven, Gradle, Jenkins, GitLab, Jira; <br/>
 Version control system: Git, Liquibase  <br/>
 Methodologies: OOP, Agile, Scrum, TDD;  <br/>
