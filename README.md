@@ -25,6 +25,9 @@ Operating system: Windows, Linux; <br />
 Development environment: Intellij IDEA; <br/>
 Application Servers: Tomcat, Jetty; <br/>
 
+### Find me around the web 🌎 :
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/DalvRid)
+
 -----
 #### My projects:
 
@@ -35,7 +38,6 @@ Application Servers: Tomcat, Jetty; <br/>
 
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladRidun&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 -----
-### Find me around the web 🌎 :
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/DalvRid)
+
 
 ![](https://komarev.com/ghpvc/?username=VladRidun)
